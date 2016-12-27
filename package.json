@@ -1,0 +1,23 @@
+{
+  "name": "proyecto_react",
+  "version": "0.0.1",
+  "description": "primer proyecto con react y jhonsito ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Yojanpardo/proyecto_react.git"
+  },
+  "author": "Yojanpardo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yojanpardo/proyecto_react/issues"
+  },
+  "homepage": "https://github.com/Yojanpardo/proyecto_react#readme",
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  }
+}
